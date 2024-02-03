@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 1rem;
+}
+
+.block {
+    display: flex;
+    height: 200px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
